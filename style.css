@@ -1,5 +1,8 @@
 #rectangle {
 	width: 200px;
 	height: 100px;
-	background: #fcb8f4;
+	background-color: #fcb8f4;
+}
+body{
+background-color: #2f3238;
 }
